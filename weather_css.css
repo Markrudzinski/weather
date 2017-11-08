@@ -7,3 +7,8 @@ body { background-color: #2A2625; }
 	margin: 200px;
 	padding-top: 60px;
 }
+.buttonTemp {
+	border: none;
+	background: none;
+	color: blue;
+}
